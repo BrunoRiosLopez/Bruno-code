@@ -1,5 +1,5 @@
-En esta página recojo parte de mis proyectos en programación.
-## Implementación de problemas NP mediante computación cuántica basada en átomos neutros
+
+## TFG: Implementación de problemas NP mediante computación cuántica basada en átomos neutros
 La carpeta TFG consta de mis trabajos en computación cuántica en átomos neutros en QuEra, haciendo uso principalmente de la libreria Bloqade de Julia.
 
 ## Física Computacional
