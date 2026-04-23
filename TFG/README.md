@@ -11,6 +11,6 @@ como la computación cuántica digital para abordar problemas tipo mochila.
 Esta carpeta contiene cuadernos que sirven de introducción a la aplicación de métodos de Monte Carlo aplicado a Computación cuántica analógica en átomos neutros. También se implementan algoritmos utilizados
 en análisis de riesgos como el **IQAE**.
 
-## Problema de la mochila
+## Optimización de carteras
 Este es el problema más interesante a nivel complejidad. Aplicado a la optimización de carteras en finanzas, se estudia cómo algoritmos cuánticos como QAOA pueden resultar útiles en estas aplicaciones. Se 
 implementan soluciones analógicas y digitales, expresando sus cuellos de botella, realizando optimizaciones y analizando resultados.
