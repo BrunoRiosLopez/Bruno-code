@@ -1,5 +1,10 @@
+# Trabajo de Fin de Grado (9.8/10)
+
+En este apartado muestro todos los proyectos que realicé durante el estudio de mi trabajo de fin de grado ´Implementación de problemas NP en computadores cuánticos basados en átomos neutros´. 
+Obtuve una calificación de **9.8** sobre 10 y resulta una gran introducción a la aplicación de esta nueva tecnología.
+
+
 # Computación cuántica en átomos neutros
-Esta carpeta recoge gran parte del código que he implementado durante el desarrollo de mi trabajo de fin de grado **Implementación de problemas NP en computadores cuánticos basados en átomos neutros**.
 
 Centrado en la aplicación a finanzas, se implementan algoritmos cuánticos como el `IQAE`, `QAOA`, `QUBO` tanto en **Python** como **Julia** para la optimización de carteras y algunos otros aspectos
 como el análisis de riesgos (**VaR, CVar**), demostrando ventaja cuántica replicando resultados de publicaciones recientes.
