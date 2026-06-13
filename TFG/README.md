@@ -3,6 +3,9 @@
 En este apartado muestro todos los proyectos que realicé durante el estudio de mi trabajo de fin de grado ´Implementación de problemas NP en computadores cuánticos basados en átomos neutros´. 
 Obtuve una calificación de **9.8** sobre 10 y resulta una gran introducción a la aplicación de esta nueva tecnología.
 
+## ACA01_BrunoRiosLopez
+La memoria de mi TFG. Recoge el estado del arte necesario para la comprensión y la resolución del problema de optimización de carteras discreta haciendo uso del enfoque analógico y digital
+en computadores cuánticos basados en átomos neutros. En concreto, utilizando el entorno de QuEra.
 
 # Computación cuántica en átomos neutros
 
