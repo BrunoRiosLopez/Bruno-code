@@ -4,3 +4,6 @@ La carpeta TFG consta de mis trabajos en computación cuántica en átomos neutr
 
 ## Física Computacional
 Cuadernos de Python con los que aprendí lo básico de programación numérica.
+
+## IBM_QC
+Proyectos de computación cuántica impartidos por IBM (no contiene el proyecto de innovación que cursé durante el grado).
