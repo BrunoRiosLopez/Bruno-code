@@ -1,6 +1,8 @@
 # Foundations of quantum computing
 
 En esta carpeta se recoge el contenido desarrollado durante los cursos que forman **Foundations of quantum computing** de IBM Quantum Learning. 
+
+
 ---
 ## Basics of quantum information
 Este primer curso se centra en asentar las bases teóricas e introducir al entorno Qiskit de IBM para implementar circuitos cuánticos.
@@ -13,6 +15,8 @@ Se estudian estados de más de un cúbit. Introduciendo así los estados que for
 Esta parte no tiene implementación en Qiskit, por lo que no sale en el .ipynb. Se introducen los conceptos básicos de circuitos tanto clásicos como cuánticos. Se presenta la acción de operadores de medida y proyectores.
 ### Entanglement in action
 Se presentan tres casos concretos donde se muestra la utilidad del uso de estados entrelazados. Se abarca el fenómeno de la teleportación cuántica, el denominado "superdense coding" y el juego CHSH, todos implementados en Qiskit.
+
+
 --- 
 ## Fundamentals of quantum algorithms
 En este segundo curso se exploran los fundamentos de algoritmos cuánticos.
