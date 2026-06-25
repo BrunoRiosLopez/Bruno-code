@@ -20,3 +20,11 @@ Se presentan tres casos concretos donde se muestra la utilidad del uso de estado
 --- 
 ## Fundamentals of quantum algorithms
 En este segundo curso se exploran los fundamentos de algoritmos cuánticos.
+
+### Quantum query algorithms
+
+### Quantum algorithmic foundations
+
+### Phase estimation and factoring
+
+### Grover's algorithm
