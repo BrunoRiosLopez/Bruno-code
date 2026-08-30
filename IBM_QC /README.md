@@ -6,11 +6,6 @@ El código y los conceptos siguen la estructura original del material didáctico
 
 ---
 
-## Intro
-Los primeros proyectos para trabajar con ejemplos sencillos de Qiskit, probados en hardware real.
-
----
-
 ## Use a quantum computer today
 
 El primer curso de IBM Quantum Platform que realizo, enfocado en lo más básico para trabajar implementando circuitos cuánticos en **Qiskit**
@@ -20,3 +15,9 @@ El primer curso de IBM Quantum Platform que realizo, enfocado en lo más básico
 ## Foundations of quantum computing
 
 Cuatro cursos que imparte IBM sobre computación cuántica, donde se tratan desde temas introductorios hasta métodos más avanzados.
+
+---
+
+## Quantum Machine Learning
+
+Un curso en el que se explora la aplicación de la computación cuántica dentro del ámbito de Machine Learning.
