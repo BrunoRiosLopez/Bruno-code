@@ -8,7 +8,7 @@ En esta carpeta se recoge el contenido desarrollado durante los cursos que forma
 Este primer curso se centra en asentar las bases teóricas e introducir al entorno Qiskit de IBM para implementar circuitos cuánticos.
 El certificado que comprueba que he completado el curso se encuentra en [Basics of quantum information](https://www.credly.com/badges/271ebaba-1def-4770-adfb-49e2f31f83ae/public_url)
 
-![](https://images.credly.com/size/80x80/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png)
+![](https://images.credly.com/size/160x160/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png)
 
 
 ### Single systems
