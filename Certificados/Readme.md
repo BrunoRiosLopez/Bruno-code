@@ -32,6 +32,7 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
    Este curso sirve como introducción conceptual a la ciencia de datos, su desarrollo histórico y el papel que juega a día de hoy en el mundo.
 
    [Certificado de IBM por Coursera](https://coursera.org/share/6061fe5a610ff5482f8292cbcdb6228a)
+  
    [Insignia de IBM vía Credly](https://www.credly.com/badges/ff20ceb6-404a-4980-b557-783d0d95c95b/public_url)
 
   
