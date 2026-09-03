@@ -83,4 +83,18 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   
 * **12.- Data Science Career Guide and Interview Preparation**
 
-  
+
+---
+## University of Pennsylvania
+
+* **Fundamentals of Quantitative Modeling**
+
+   En este curso se asientan las bases del análisis cuantitativo. Modelos deterministas, probabilísticos y otros temas son tratados desde lo más básico.
+
+  [Certificado de Wharton por Coursera](https://coursera.org/share/381a3fde4755887564ce09a48225c489)
+
+* **Introduction to Spreadsheets and Models**
+
+  Introducción al análisis cuantitativo desde Microsoft Excel. Aplicar modelos mediante las herramientas que presentan las hojas de cálculo.
+
+  [Certificado de Wharton por Coursera](https://coursera.org/share/f0866c6c6a02164ca118691a53810bf8)
