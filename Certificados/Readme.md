@@ -31,7 +31,7 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 * **1.- What is Data Science?**
    Este curso sirve como introducción conceptual a la ciencia de datos, su desarrollo histórico y el papel que juega a día de hoy en el mundo.
 
-   [Certificado de IBM por Coursera](tal)
+   [Certificado de IBM por Coursera](https://coursera.org/share/6061fe5a610ff5482f8292cbcdb6228a)
 
   
 * **2.- Tools for Data Science**
