@@ -13,3 +13,5 @@ Cuadernos de Python con los que aprendí lo básico de programación numérica.
 Proyectos de computación cuántica impartidos por IBM (no contiene el proyecto de innovación que cursé durante el grado).
 
 ---
+## Certificados
+Todos los certificados oficiales que acreditan los cursos que he completado de manera complementaria a mi formación universitaria.
