@@ -43,7 +43,10 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
     [Certificado de IBM por Coursera](https://coursera.org/share/b4ba14ab9b862e7b2ff533705e04b70b)
   
 * **3.- Data Science Methodology**
+   Este curso muestra la metodología modelo a seguir en ciencia de datos. Desde el planteamiento correcto del proyecto, la preparación de los datos, su interpretación y presentación. Cuenta con un proyecto final para asentar la metodología que debe seguir un científico de datos a lo largo de un proyecto, estudiando un caso de ciencia de la salud.
 
+  <!--[Certificado de IBM por Coursera]()
+  <!--[Insignia de IBM vía Credly]()
   
 * **4.- Python for Data Science, AI & Development**
   
@@ -55,6 +58,7 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   Se juega el papel de un científico de datos trabajando en un proyecto real. Utilizando Python, se aplican métodos como el `Web Scrappin`g`` y la manipulación de dataframes para realizar un análisis sobre las acciones de distintas empresas a lo largo del tiempo.
 
   [Certificado de IBM por Coursera](https://coursera.org/share/cc20bb3ab0c036caca1d9a61db0937bc)
+  
 * **6.- Databases and SQL for Data Science with Python**
   
   Este curso se centra en el manejo de bases de datos haciendo uso del lenguaje `SQL`, orientado especialmente a definir, consultar y navegar por bases de datos. Se aprenden los conceptos básicos de dicho lenguaje y además se muestra cómo trabajar con SQL desde Python.
@@ -64,9 +68,14 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   
 * **7.- Data Analysis with Python**
 
+
+   <!--[Certificado de IBM por Coursera]()
+   <!--[Insignia de IBM vía Credly]()
   
 * **8.- Data Visualization with Pyhton**
 
+   <!--[Certificado de IBM por Coursera]()
+   <!--[Insignia de IBM vía Credly]()
   
 * **9.- Machine Learning with Python**
 
@@ -80,12 +89,20 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 * **10.-- Applied Data Science Capstone**
 
   
+  <!--[Certificado de IBM por Coursera]()
+  <!--[Insignia de IBM vía Credly]()
+
 * **11.- Generative AI: Elevante Your Data Science Career**
 
+
+   <!--[Certificado de IBM por Coursera]()
+  <!--[Insignia de IBM vía Credly]()
   
 * **12.- Data Science Career Guide and Interview Preparation**
 
-
+   <!--[Certificado de IBM por Coursera]()
+  <!--[Insignia de IBM vía Credly]()
+  
 ---
 ## University of Pennsylvania
 
