@@ -69,10 +69,12 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   
 * **7.- Data Analysis with Python**
 
+   En este curso se indaga en el uso de Python para el análisis de datos, desde cómo importar bases de datos, los métodos para limpiar y preparar los datos, así como modelos sencillos para predicción y las métricas de evaluación para comprobar la bondad de
+  los modelos que se construyen.
 
-   <!--[Certificado de IBM por Coursera]()-->
+   [Certificado de IBM por Coursera](https://coursera.org/share/bf9f1824b37af65c73f0202b7f85eb22)
   
-   <!--[Insignia de IBM vía Credly]()-->
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/3cb8164c-ef30-4f09-9aeb-b04fb68b1d94/public_url)
   
 * **8.- Data Visualization with Pyhton**
 
