@@ -78,6 +78,8 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   
 * **8.- Data Visualization with Pyhton**
 
+  Este curso se centra en las herramientas y librerías disponibles en Python para la visualización de datos. Se profundiza en herramientas de `Matplotlib.pylot`, `Seaborn` y `Folium` para la representación gráfica en proyectos de ciencia de datos.
+
    <!--[Certificado de IBM por Coursera]()-->
   
    <!--[Insignia de IBM vía Credly]()-->
