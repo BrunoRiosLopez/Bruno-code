@@ -80,9 +80,9 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 
   Este curso se centra en las herramientas y librerías disponibles en Python para la visualización de datos. Se profundiza en herramientas de `Matplotlib.pylot`, `Seaborn` y `Folium` para la representación gráfica en proyectos de ciencia de datos.
 
-   <!--[Certificado de IBM por Coursera]()-->
+   [Certificado de IBM por Coursera](https://coursera.org/share/6c579741c075268ac8d17b224d73998a)
   
-   <!--[Insignia de IBM vía Credly]()-->
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/9d9532cc-635f-46ac-be7e-fb790ccbb291/public_url)
   
 * **9.- Machine Learning with Python**
 
