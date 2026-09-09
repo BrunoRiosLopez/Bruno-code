@@ -98,7 +98,7 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
   En este curso se realiza un proyecto completo de ciencia de datos, llevando a práctica todos los conceptos y herramientas aprendidas en cursos anteriores.
   
   [Certificado de IBM por Coursera](https://coursera.org/share/6e77dab33fda1f6a9d7bc8fab61928bd)
-  
+  [Insignia de IBM vía Credly](https://www.credly.com/badges/958101f1-eb20-4ac4-b2ac-8c4bb92f0a98/public_url)
   
 
 * **11.- Generative AI: Elevante Your Data Science Career**
