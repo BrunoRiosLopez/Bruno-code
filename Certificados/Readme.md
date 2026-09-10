@@ -26,7 +26,13 @@ En esta sección se muestra la documentación que acredita los cursos, especiali
 
 ## IBM Data Science Professional Certificate
 
-Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relacionados con el mundo de la ciencia de datos. Actualmente sigo en el proceso de completarlo.
+Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relacionados con el mundo de la ciencia de datos.
+
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ET073QBX1PVU/CERTIFICATE_LANDING_PAGE~ET073QBX1PVU.jpeg)
+
+[Certificado de IBM por Coursera](https://coursera.org/share/708ef176428a790a0f8ecf5b4cc676b9)
+
+
 
 * **1.- What is Data Science?**
    Este curso sirve como introducción conceptual a la ciencia de datos, su desarrollo histórico y el papel que juega a día de hoy en el mundo.
@@ -114,9 +120,9 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 
   En el último curso del certificado profesional, se prepara el proceso de selección para un puesto como científico de datos, realizando simulacros de entrevista y demostrando los conocimientos obtenidos a lo largo de los cursos realizados.
 
-   <!--[Certificado de IBM por Coursera]()-->
+   [Certificado de IBM por Coursera](https://coursera.org/share/63c1476f7144e858c745bead1d897188)
   
-  <!--[Insignia de IBM vía Credly]()-->
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/9247e03e-efc2-492b-a913-814a62167038/public_url)
   
 ---
 ## University of Pennsylvania
