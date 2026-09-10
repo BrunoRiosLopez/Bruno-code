@@ -103,12 +103,16 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 
 * **11.- Generative AI: Elevante Your Data Science Career**
 
+  En este curso se profundiza en las herramientas basadas en IA generativa y cómo pueden resultar útiles para cada parte del proceso de un proyecto en ciencia de datos. Se presentan herramientas para la obtención de datos, preprocesado, aumentado de datos, etc.
 
-   <!--[Certificado de IBM por Coursera]()-->
+
+   [Certificado de IBM por Coursera](https://coursera.org/share/31a38af128b3d5e487a2760f33c1864e)
   
-  <!--[Insignia de IBM vía Credly]()-->
+  [Insignia de IBM vía Credly](https://www.credly.com/badges/afc08bb5-979d-445a-b15b-5e79d384d601/public_url)
   
 * **12.- Data Science Career Guide and Interview Preparation**
+
+  En el último curso del certificado profesional, se prepara el proceso de selección para un puesto como científico de datos, realizando simulacros de entrevista y demostrando los conocimientos obtenidos a lo largo de los cursos realizados.
 
    <!--[Certificado de IBM por Coursera]()-->
   
