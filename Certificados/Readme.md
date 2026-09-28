@@ -131,6 +131,9 @@ Un certificado profesional otorgado por IBM mediante Coursera sobre Machine Lear
 
 * **1.- Exploratory Data Analysis for Machine Learning**
 
+Este curso se centra en los métodos necesarios para trabajar con Datasets haciendo uso de python, así como los conceptos clave de estadística a la hora de trabajar con contrastes de hipótesis y distribuciones de probabilidad.
+
+[Certificado de IBM por Coursera](https://coursera.org/share/9aa144a671f6c54ff05f1dfe3a846c24)
 
 * **2.- Supervised Machine Learning: Regression**
 
