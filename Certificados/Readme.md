@@ -134,9 +134,15 @@ Un certificado profesional otorgado por IBM mediante Coursera sobre Machine Lear
 Este curso se centra en los métodos necesarios para trabajar con Datasets haciendo uso de python, así como los conceptos clave de estadística a la hora de trabajar con contrastes de hipótesis y distribuciones de probabilidad.
 
 [Certificado de IBM por Coursera](https://coursera.org/share/9aa144a671f6c54ff05f1dfe3a846c24)
+[Insignia de IBM via Credly](https://www.credly.com/badges/af8fb498-10a6-452d-9570-83fa39b0b31f/public_url)
 
 * **2.- Supervised Machine Learning: Regression**
+  
+En este curso se indaga en los modelos de regresión en ML, cómo se debe trabajar con los datos para mejorar el rendimiento de modelos, el uso de técnicas como el Cross Validation y la regularización Ridge y Lasso.
 
+[Certificado de IBM por Coursera](https://coursera.org/share/fd4bd890f2389d33488ca0cc13c7020d)
+
+[Insignia de IBM vía Credly](https://www.credly.com/badges/47583032-0162-44a5-996e-66bcf2e69ba1/public_url)
 
 * **3.- Supervised Machine Learning: Classification**
 
