@@ -134,6 +134,7 @@ Un certificado profesional otorgado por IBM mediante Coursera sobre Machine Lear
 Este curso se centra en los métodos necesarios para trabajar con Datasets haciendo uso de python, así como los conceptos clave de estadística a la hora de trabajar con contrastes de hipótesis y distribuciones de probabilidad.
 
 [Certificado de IBM por Coursera](https://coursera.org/share/9aa144a671f6c54ff05f1dfe3a846c24)
+
 [Insignia de IBM via Credly](https://www.credly.com/badges/af8fb498-10a6-452d-9570-83fa39b0b31f/public_url)
 
 * **2.- Supervised Machine Learning: Regression**
@@ -146,12 +147,50 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
 
 * **3.- Supervised Machine Learning: Classification**
 
+  Este curso se especializa en modelos de Machine Learning utilizados para clasificación. Se aprende a implementar y analizar modelos como la `regresión logística`, `Clasificación KNN`, `Support Vector Machines`, `Árboles de decisión` y `Modelos de ensamblado`
+  haciendo uso de la librerí scikit-learn de python.
+
+   <!---
+   [Certificado de IBM por Coursera]()
+
+   [Insignia de IBM vía Credly]()
+
+   --->
+
 
 * **4.- Unsupervised Machine Learning**
 
+   En este curso se indaga en los métodos no supervisado del aprendizaje automático. Conceptos como las métricas de distancia, `Clustering`, reducción de dimensionalidad y factorización de matrices. Todo compaginado con laboratorios prácticos para aprender cómo
+  utilizar Python para la construcción de modelos.
+  
+   <!---
+   [Certificado de IBM por Coursera]()
+
+   [Insignia de IBM vía Credly]()
+
+   --->
+
 * **5.- Deep Learning and Reinforcedment Learning**
 
+  Este curso explora el aprendizaje profundo en detalle, redes neuronales, modelos generativos y aprendizaje reforzado, con ejercicios prácticos que muestran cómo implementar modelos haciendo uso de Python y librerías especializadas.
+  
+   <!---
+   [Certificado de IBM por Coursera]()
+
+   [Insignia de IBM vía Credly]()
+
+   --->
+
 *  **6.- Machine Learning Capstone**
+
+   Un último curso en el que se guía un proceso completo para la construcción de un modelo de Machine Learning haciendo uso de Python.
+  
+   <!---
+   [Certificado de IBM por Coursera]()
+
+   [Insignia de IBM vía Credly]()
+
+   --->
   
 ---
 
