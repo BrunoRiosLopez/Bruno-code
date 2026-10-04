@@ -2,25 +2,35 @@
 
 En esta sección se muestra la documentación que acredita los cursos, especializaciones y formaciones que he completado.
 
+## Tabla de Contenidos
+
+Se recomienda el uso de la tabla de contenidos para un más fácil manejo dentro del documento.
+
+- [1. IBM Quantum Learning](#ibm-quantum-learning)
+- [2. IBM Data Science Professional Certificate](#ibm-data-science-professional-certificate)
+- [3. IBM Machine Learning Professional Certificate](#ibm-machine-learning-professional-certificate)
+- [4. University of Pennsylvania](#university-of-pennsylvania)
 ---
 
 ## IBM Quantum Learning
 
 * **Basics of Quantum Information:**
 
-   ![](https://images.credly.com/size/110x110/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png) 
+ <img src="https://images.credly.com/size/11x11/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png" width ="120" alt=".." />
  
    [Certificado de IBM por Credly](https://www.credly.com/badges/271ebaba-1def-4770-adfb-49e2f31f83ae/public_url)
  
    [Contenido](https://github.com/BrunoRiosLopez/Bruno-code/tree/main/IBM_QC%20/Foundations)
 
 * **Quantum Machine Learning**
-  
-   ![](https://images.credly.com/size/110x110/images/6474ba18-3b83-4a34-878d-158e5869a20d/Quantum_20Machine_20Learning.png)
 
-  [Certificado de IBM por Credly](https://www.credly.com/badges/09fe0c1a-d636-4a62-99fd-66141be4c88b/public_url)
+<img src="https://images.credly.com/size/110x110/images/6474ba18-3b83-4a34-878d-158e5869a20d/Quantum_20Machine_20Learning.png" width ="120" alt=".." />
 
-  [Contenido](https://github.com/BrunoRiosLopez/Bruno-code/tree/main/IBM_QC%20/QML)
+[Certificado de IBM por Credly](https://www.credly.com/badges/09fe0c1a-d636-4a62-99fd-66141be4c88b/public_url)
+
+[Contenido](https://github.com/BrunoRiosLopez/Bruno-code/tree/main/IBM_QC%20/QML)
+
+[▲ Volver arriba](#tabla-de-contenidos)
 
 --- 
 
@@ -33,101 +43,120 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 [Certificado de IBM por Coursera](https://coursera.org/share/708ef176428a790a0f8ecf5b4cc676b9)
 
 
-
-* **1.- What is Data Science?**
-   Este curso sirve como introducción conceptual a la ciencia de datos, su desarrollo histórico y el papel que juega a día de hoy en el mundo.
-
-   [Certificado de IBM por Coursera](https://coursera.org/share/6061fe5a610ff5482f8292cbcdb6228a)
-  
-   [Insignia de IBM vía Credly](https://www.credly.com/badges/ff20ceb6-404a-4980-b557-783d0d95c95b/public_url)
-
-  
-* **2.- Tools for Data Science**
-
-    En este curso se describe el material esencial para la ciencia de datos: librerias, datasets, modelos de Machine Learning y herramientas de `Big Data`. Se utilizan lenguajes de programación como `Python`, `SQL` y `R`. Se hace una introducción a los entornos de Git y Github.
-
-    [Certificado de IBM por Coursera](https://coursera.org/share/b4ba14ab9b862e7b2ff533705e04b70b)
-  
-* **3.- Data Science Methodology**
-   Este curso muestra la metodología modelo a seguir en ciencia de datos. Desde el planteamiento correcto del proyecto, la preparación de los datos, su interpretación y presentación. Cuenta con un proyecto final para asentar la metodología que debe seguir un científico de datos a lo largo de un proyecto, estudiando un caso de ciencia de la salud.
-
-  [Certificado de IBM por Coursera](https://coursera.org/share/189fd9584a28916cfa9524080dfae384)
-  
-  [Insignia de IBM vía Credly](https://www.credly.com/badges/5136545e-8878-482b-82b7-6088de60a100/public_url)
-  
-* **4.- Python for Data Science, AI & Development**
-  
-  Este curso profundiza en la aplicación de Python en el ámbito de la ciencia de datos. Se utilizan librerias como `Pandas` y `Numpy`, así como entornos como `Jupyter Notebook`.
-  
-  [Certificado de IBM por Coursera](https://coursera.org/share/539ac18441bb52cef15410b1908bc168)
-* **5.- Python Project for Data Science**
-  
-  Se juega el papel de un científico de datos trabajando en un proyecto real. Utilizando Python, se aplican métodos como el `Web Scrappin`g`` y la manipulación de dataframes para realizar un análisis sobre las acciones de distintas empresas a lo largo del tiempo.
-
-  [Certificado de IBM por Coursera](https://coursera.org/share/cc20bb3ab0c036caca1d9a61db0937bc)
-  
-* **6.- Databases and SQL for Data Science with Python**
-  
-  Este curso se centra en el manejo de bases de datos haciendo uso del lenguaje `SQL`, orientado especialmente a definir, consultar y navegar por bases de datos. Se aprenden los conceptos básicos de dicho lenguaje y además se muestra cómo trabajar con SQL desde Python.
-
-  [Certificado de IBM por Coursera](https://coursera.org/share/e80e0ba5ba024b32dce204ec71706fb5)
-  
-  
-* **7.- Data Analysis with Python**
-
-   En este curso se indaga en el uso de Python para el análisis de datos, desde cómo importar bases de datos, los métodos para limpiar y preparar los datos, así como modelos sencillos para predicción y las métricas de evaluación para comprobar la bondad de
-  los modelos que se construyen.
-
-   [Certificado de IBM por Coursera](https://coursera.org/share/bf9f1824b37af65c73f0202b7f85eb22)
-  
-   [Insignia de IBM vía Credly](https://www.credly.com/badges/3cb8164c-ef30-4f09-9aeb-b04fb68b1d94/public_url)
-  
-* **8.- Data Visualization with Pyhton**
-
-  Este curso se centra en las herramientas y librerías disponibles en Python para la visualización de datos. Se profundiza en herramientas de `Matplotlib.pylot`, `Seaborn` y `Folium` para la representación gráfica en proyectos de ciencia de datos.
-
-   [Certificado de IBM por Coursera](https://coursera.org/share/6c579741c075268ac8d17b224d73998a)
-  
-   [Insignia de IBM vía Credly](https://www.credly.com/badges/9d9532cc-635f-46ac-be7e-fb790ccbb291/public_url)
-  
-* **9.- Machine Learning with Python**
-
-  En este curso se introduce la base del Machine Learning desde Python. Se profundiza en modelos de **regresión**, **supervisados** y **no supervisados**. También se presentan algoritmos de reducción de dimensionalidad y métodos para la evaluación y análisis de modelos. Cada uno de los
-  módulos contiene laboratorios específicos con proyectos en los que se utiliza principalmente `scikit-learn` para introducir las bases de cada uno de los modelos.
-
-  [Certificado de IBM por Coursera](https://coursera.org/share/20d15eaa6d72f0a32684b8bf8eca1895)
-  
-  [Insignia de IBM vía Credly](https://www.credly.com/badges/2e1208a2-a524-4b55-b29f-219c3ecafcdc/public_url)
-  
-* **10.- Applied Data Science Capstone**
-
-  En este curso se realiza un proyecto completo de ciencia de datos, llevando a práctica todos los conceptos y herramientas aprendidas en cursos anteriores.
-  
-  [Certificado de IBM por Coursera](https://coursera.org/share/6e77dab33fda1f6a9d7bc8fab61928bd)
-  [Insignia de IBM vía Credly](https://www.credly.com/badges/958101f1-eb20-4ac4-b2ac-8c4bb92f0a98/public_url)
-  
-
-* **11.- Generative AI: Elevante Your Data Science Career**
-
-  En este curso se profundiza en las herramientas basadas en IA generativa y cómo pueden resultar útiles para cada parte del proceso de un proyecto en ciencia de datos. Se presentan herramientas para la obtención de datos, preprocesado, aumentado de datos, etc.
-
-
-   [Certificado de IBM por Coursera](https://coursera.org/share/31a38af128b3d5e487a2760f33c1864e)
-  
-  [Insignia de IBM vía Credly](https://www.credly.com/badges/afc08bb5-979d-445a-b15b-5e79d384d601/public_url)
-  
-* **12.- Data Science Career Guide and Interview Preparation**
-
-  En el último curso del certificado profesional, se prepara el proceso de selección para un puesto como científico de datos, realizando simulacros de entrevista y demostrando los conocimientos obtenidos a lo largo de los cursos realizados.
-
-   [Certificado de IBM por Coursera](https://coursera.org/share/63c1476f7144e858c745bead1d897188)
-  
-   [Insignia de IBM vía Credly](https://www.credly.com/badges/9247e03e-efc2-492b-a913-814a62167038/public_url)
+<details>
+   <summary> <b> </br>
+   IBM Data Science Professional Certificate (12 Cursos) — Haz clic para desplegar
+   <br>
+   </summary>
+   
+   * **1.- What is Data Science?**
+      Este curso sirve como introducción conceptual a la ciencia de datos, su desarrollo histórico y el papel que juega a día de hoy en el mundo.
+   
+      [Certificado de IBM por Coursera](https://coursera.org/share/6061fe5a610ff5482f8292cbcdb6228a)
+     
+      [Insignia de IBM vía Credly](https://www.credly.com/badges/ff20ceb6-404a-4980-b557-783d0d95c95b/public_url)
+   
+     
+   * **2.- Tools for Data Science**
+   
+       En este curso se describe el material esencial para la ciencia de datos: librerias, datasets, modelos de Machine Learning y herramientas de `Big Data`. Se utilizan lenguajes de programación como `Python`, `SQL` y `R`. Se hace una introducción a los entornos de Git y Github.
+   
+       [Certificado de IBM por Coursera](https://coursera.org/share/b4ba14ab9b862e7b2ff533705e04b70b)
+     
+   * **3.- Data Science Methodology**
+      Este curso muestra la metodología modelo a seguir en ciencia de datos. Desde el planteamiento correcto del proyecto, la preparación de los datos, su interpretación y presentación. Cuenta con un proyecto final para asentar la metodología que debe seguir un científico de datos a lo largo de un proyecto, estudiando un caso de ciencia de la salud.
+   
+     [Certificado de IBM por Coursera](https://coursera.org/share/189fd9584a28916cfa9524080dfae384)
+     
+     [Insignia de IBM vía Credly](https://www.credly.com/badges/5136545e-8878-482b-82b7-6088de60a100/public_url)
+     
+   * **4.- Python for Data Science, AI & Development**
+     
+     Este curso profundiza en la aplicación de Python en el ámbito de la ciencia de datos. Se utilizan librerias como `Pandas` y `Numpy`, así como entornos como `Jupyter Notebook`.
+     
+     [Certificado de IBM por Coursera](https://coursera.org/share/539ac18441bb52cef15410b1908bc168)
+   * **5.- Python Project for Data Science**
+     
+     Se juega el papel de un científico de datos trabajando en un proyecto real. Utilizando Python, se aplican métodos como el `Web Scrapping` y la manipulación de dataframes para realizar un análisis sobre las acciones de distintas empresas a lo largo del tiempo.
+   
+     [Certificado de IBM por Coursera](https://coursera.org/share/cc20bb3ab0c036caca1d9a61db0937bc)
+     
+   * **6.- Databases and SQL for Data Science with Python**
+     
+     Este curso se centra en el manejo de bases de datos haciendo uso del lenguaje `SQL`, orientado especialmente a definir, consultar y navegar por bases de datos. Se aprenden los conceptos básicos de dicho lenguaje y además se muestra cómo trabajar con SQL desde Python.
+   
+     [Certificado de IBM por Coursera](https://coursera.org/share/e80e0ba5ba024b32dce204ec71706fb5)
+     
+     
+   * **7.- Data Analysis with Python**
+   
+      En este curso se indaga en el uso de Python para el análisis de datos, desde cómo importar bases de datos, los métodos para limpiar y preparar los datos, así como modelos sencillos para predicción y las métricas de evaluación para comprobar la bondad de
+     los modelos que se construyen.
+   
+      [Certificado de IBM por Coursera](https://coursera.org/share/bf9f1824b37af65c73f0202b7f85eb22)
+     
+      [Insignia de IBM vía Credly](https://www.credly.com/badges/3cb8164c-ef30-4f09-9aeb-b04fb68b1d94/public_url)
+     
+   * **8.- Data Visualization with Pyhton**
+   
+     Este curso se centra en las herramientas y librerías disponibles en Python para la visualización de datos. Se profundiza en herramientas de `Matplotlib.pylot`, `Seaborn` y `Folium` para la representación gráfica en proyectos de ciencia de datos.
+   
+      [Certificado de IBM por Coursera](https://coursera.org/share/6c579741c075268ac8d17b224d73998a)
+     
+      [Insignia de IBM vía Credly](https://www.credly.com/badges/9d9532cc-635f-46ac-be7e-fb790ccbb291/public_url)
+     
+   * **9.- Machine Learning with Python**
+   
+     En este curso se introduce la base del Machine Learning desde Python. Se profundiza en modelos de **regresión**, **supervisados** y **no supervisados**. También se presentan algoritmos de reducción de dimensionalidad y métodos para la evaluación y análisis de modelos. Cada uno de los
+     módulos contiene laboratorios específicos con proyectos en los que se utiliza principalmente `scikit-learn` para introducir las bases de cada uno de los modelos.
+   
+     [Certificado de IBM por Coursera](https://coursera.org/share/20d15eaa6d72f0a32684b8bf8eca1895)
+     
+     [Insignia de IBM vía Credly](https://www.credly.com/badges/2e1208a2-a524-4b55-b29f-219c3ecafcdc/public_url)
+     
+   * **10.- Applied Data Science Capstone**
+   
+     En este curso se realiza un proyecto completo de ciencia de datos, llevando a práctica todos los conceptos y herramientas aprendidas en cursos anteriores.
+     
+     [Certificado de IBM por Coursera](https://coursera.org/share/6e77dab33fda1f6a9d7bc8fab61928bd)
+     [Insignia de IBM vía Credly](https://www.credly.com/badges/958101f1-eb20-4ac4-b2ac-8c4bb92f0a98/public_url)
+     
+   
+   * **11.- Generative AI: Elevante Your Data Science Career**
+   
+     En este curso se profundiza en las herramientas basadas en IA generativa y cómo pueden resultar útiles para cada parte del proceso de un proyecto en ciencia de datos. Se presentan herramientas para la obtención de datos, preprocesado, aumentado de datos, etc.
+   
+   
+      [Certificado de IBM por Coursera](https://coursera.org/share/31a38af128b3d5e487a2760f33c1864e)
+     
+     [Insignia de IBM vía Credly](https://www.credly.com/badges/afc08bb5-979d-445a-b15b-5e79d384d601/public_url)
+     
+   * **12.- Data Science Career Guide and Interview Preparation**
+   
+     En el último curso del certificado profesional, se prepara el proceso de selección para un puesto como científico de datos, realizando simulacros de entrevista y demostrando los conocimientos obtenidos a lo largo de los cursos realizados.
+   
+      [Certificado de IBM por Coursera](https://coursera.org/share/63c1476f7144e858c745bead1d897188)
+     
+      [Insignia de IBM vía Credly](https://www.credly.com/badges/9247e03e-efc2-492b-a913-814a62167038/public_url)
+   </details>
+[▲ Volver arriba](#tabla-de-contenidos)
   
 ---
 ## IBM Machine Learning Professional Certificate
 
 Un certificado profesional otorgado por IBM mediante Coursera sobre Machine Learning. Consta de 5 cursos en los que se indaga a fondo en el papel del Machine Learning en el mundo de los datos.
+<!--
+   [Certificado Profesional de IBM por Coursera]()
+
+   [Insignia de IBM vía Credly]()
+
+   -->
+
+<details> 
+   <summary> <b> </br>
+   IBM Machine Learning Professional Certificate (6 Cursos) — Haz clic para desplegar
+   <br>
+   </summary>
 
 * **1.- Exploratory Data Analysis for Machine Learning**
 
@@ -148,7 +177,7 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
 * **3.- Supervised Machine Learning: Classification**
 
   Este curso se especializa en modelos de Machine Learning utilizados para clasificación. Se aprende a implementar y analizar modelos como la `regresión logística`, `Clasificación KNN`, `Support Vector Machines`, `Árboles de decisión` y `Modelos de ensamblado`
-  haciendo uso de la librerí scikit-learn de python.
+  haciendo uso de la librería scikit-learn de python.
 
    <!---
    [Certificado de IBM por Coursera]()
@@ -191,6 +220,10 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
    [Insignia de IBM vía Credly]()
 
    --->
+
+</details>
+
+  [▲ Volver arriba](#tabla-de-contenidos)
   
 ---
 
@@ -207,3 +240,5 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
   Introducción al análisis cuantitativo desde Microsoft Excel. Aplicar modelos mediante las herramientas que presentan las hojas de cálculo.
 
   [Certificado de Wharton por Coursera](https://coursera.org/share/f0866c6c6a02164ca118691a53810bf8)
+
+[▲ Volver arriba](#tabla-de-contenidos)
