@@ -214,12 +214,12 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
 
    Un último curso en el que se guía un proceso completo para la construcción de un modelo de Machine Learning haciendo uso de Python.
   
-   <!---
-   [Certificado de IBM por Coursera]()
 
-   [Insignia de IBM vía Credly]()
+   [Certificado de IBM por Coursera](https://coursera.org/share/e2185e0ca1348a9de36cb9313b01a1b6)
 
-   --->
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/042ece54-91ed-4e77-aabc-b80ccda7130c/public_url)
+
+
 
 </details>
 
