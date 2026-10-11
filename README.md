@@ -3,15 +3,17 @@
 La carpeta TFG consta de mis trabajos en computación cuántica en átomos neutros en QuEra, haciendo uso principalmente de la libreria Bloqade de Julia.
 
 ---
-
-## Física Computacional
-Cuadernos de Python con los que aprendí lo básico de programación numérica.
+## Certificados
+Todos los certificados oficiales que acreditan los cursos que he completado de manera complementaria a mi formación universitaria.
 
 ---
-
 ## IBM_QC
 Proyectos de computación cuántica impartidos por IBM (no contiene el proyecto de innovación que cursé durante el grado).
 
 ---
-## Certificados
-Todos los certificados oficiales que acreditan los cursos que he completado de manera complementaria a mi formación universitaria.
+## Machine Learning Projects
+Proyectos de aprendizaje automático que he desarrollado a partir de los cursos y formaciones que he ido haciendo.
+
+---
+## Física Computacional
+Cuadernos de Python con los que aprendí lo básico de programación numérica.
