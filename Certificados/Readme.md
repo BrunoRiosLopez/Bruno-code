@@ -179,12 +179,12 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
   Este curso se especializa en modelos de Machine Learning utilizados para clasificación. Se aprende a implementar y analizar modelos como la `regresión logística`, `Clasificación KNN`, `Support Vector Machines`, `Árboles de decisión` y `Modelos de ensamblado`
   haciendo uso de la librería scikit-learn de python.
 
-   <!---
-   [Certificado de IBM por Coursera]()
+  
+   [Certificado de IBM por Coursera](https://coursera.org/share/0ebab181133b3ed63b866486cd77e174)
 
-   [Insignia de IBM vía Credly]()
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/f158193f-f587-4978-a52a-11ea1fd036f1/public_url)
 
-   --->
+  
 
 
 * **4.- Unsupervised Machine Learning**
