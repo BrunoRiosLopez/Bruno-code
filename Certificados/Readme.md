@@ -192,12 +192,12 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
    En este curso se indaga en los métodos no supervisado del aprendizaje automático. Conceptos como las métricas de distancia, `Clustering`, reducción de dimensionalidad y factorización de matrices. Todo compaginado con laboratorios prácticos para aprender cómo
   utilizar Python para la construcción de modelos.
   
-   <!---
-   [Certificado de IBM por Coursera]()
 
-   [Insignia de IBM vía Credly]()
+   [Certificado de IBM por Coursera](https://coursera.org/share/14bc42323efa7a15a4bd88c45ec546de)
 
-   --->
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/f010dbe2-2391-4771-b021-b0f751191970/public_url)
+
+
 
 * **5.- Deep Learning and Reinforcedment Learning**
 
