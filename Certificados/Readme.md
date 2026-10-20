@@ -145,12 +145,11 @@ Un certificado otorgado por IBM mediante Coursera que consta de 12 cursos relaci
 ## IBM Machine Learning Professional Certificate
 
 Un certificado profesional otorgado por IBM mediante Coursera sobre Machine Learning. Consta de 5 cursos en los que se indaga a fondo en el papel del Machine Learning en el mundo de los datos.
-<!--
-   [Certificado Profesional de IBM por Coursera]()
 
-   [Insignia de IBM vía Credly]()
+  ![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6HEQPOQBEYRJ/CERTIFICATE_LANDING_PAGE~6HEQPOQBEYRJ.jpeg)
 
-   -->
+   [Certificado Profesional de IBM por Coursera](https://coursera.org/share/8453eb51a3ab07dab6be55977d75c052)
+
 
 <details> 
    <summary> <b> </br>
@@ -202,13 +201,12 @@ En este curso se indaga en los modelos de regresión en ML, cómo se debe trabaj
 * **5.- Deep Learning and Reinforcedment Learning**
 
   Este curso explora el aprendizaje profundo en detalle, redes neuronales, modelos generativos y aprendizaje reforzado, con ejercicios prácticos que muestran cómo implementar modelos haciendo uso de Python y librerías especializadas.
+
+   [Certificado de IBM por Coursera](https://coursera.org/share/e2185e0ca1348a9de36cb9313b01a1b6)
   
-   <!---
-   [Certificado de IBM por Coursera]()
 
-   [Insignia de IBM vía Credly]()
+   [Insignia de IBM vía Credly](https://www.credly.com/badges/3bd3141f-0a11-4539-9838-1bd6495e04c4/public_url)
 
-   --->
 
 *  **6.- Machine Learning Capstone**
 
